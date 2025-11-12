@@ -3,17 +3,13 @@
 
 
 
-### A Blockchain🐍 & Web Developer. Love to learn and explore 🚀 
+### A Blockchain & Web Developer. Love to learn and explore 🚀 
  
-- 👨‍💻 Third Year Student at <b>IIT (ISM)</b>.
-
-- 🔭 I’m currently working on <b>Web Development</b>, <b>Blockchain Deveopment</b>, <b>Smart Contract</b>, <b>Solidity</b>.
+- 👨‍💻 '24 graduate from <b>Indian Institute of Technology (Indian School of Mines) Dhanbad</b>.
  
-- 👯 I’m looking to collaborate on Web3 and Blockchain projects
+- 👯 I’m looking to collaborate on Web3 and Blockchain projects.
 
-- 💬 Would Like to talk about <b>Web Development</b>, <b>Blockchain</b>, <b>Ethereum</b>, <b>Solidity</b>, <b>Daaps</b>.
-
-- 🌱 I’m currently learning <b>Blockchain, Ethereum, Solidity</b>, <b>Dapps</b> and <b>Smart Contract Auditing</b>
+- 💬 Would Like to talk about <b>Web Development</b>, <b>Blockchain</b> & <b>Ethereum</b>.
 
 - 🤔 I’m looking for help with <b>Some Guidance</b> to my journey to <b>Smart Contract Auditing</b>
 
