@@ -4,12 +4,7 @@
 
 
 ### A Blockchain & Web Developer. Love to learn and explore 🚀 
- 
-- 👨‍💻 '24 graduate from <b>Indian Institute of Technology (Indian School of Mines) Dhanbad</b>.
 
-
-
-[![Kundan's github activity graph](https://activity-graph.herokuapp.com/graph?username=starkkumarkk1611&theme=react-dark&hide_border=true&line=66FF00&color=8700FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
