@@ -6,14 +6,7 @@
 ### A Blockchain & Web Developer. Love to learn and explore 🚀 
  
 - 👨‍💻 '24 graduate from <b>Indian Institute of Technology (Indian School of Mines) Dhanbad</b>.
- 
-- 👯 I’m looking to collaborate on Web3 and Blockchain projects.
 
-- 💬 Would Like to talk about <b>Web Development</b>, <b>Blockchain</b> & <b>Ethereum</b>.
-
-- 🤔 I’m looking for help with <b>Some Guidance</b> to my journey to <b>Smart Contract Auditing</b>
-
-- 📫 How to reach me: kundankushwaha.er@gmail.com .
 
 
 [![Kundan's github activity graph](https://activity-graph.herokuapp.com/graph?username=starkkumarkk1611&theme=react-dark&hide_border=true&line=66FF00&color=8700FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
